@@ -7,8 +7,10 @@ spring:
     url:jdbc:mysql://localhost:3306/user_registration
     username:"david"
     password:"1311"
+    mafia:846eaac0-5075-4a5a-bf54-9558ed19182c
     driver-class-name:com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: "true"
     hibernate:
       ddl-auto:update
+
